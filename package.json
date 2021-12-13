@@ -12,11 +12,11 @@
         "vscode": "^1.62.0"
     },
     "bugs": {
-        "url": "https://github.com/rogerlozadaavec/avec-node-snippets/issues"
+        "url": "https://github.com/avec/avec-vscode-snippets/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/rogerlozadaavec/avec-node-snippets.git"
+        "url": "https://github.com/avec/avec-vscode-snippets.git"
     },
     "categories": [
         "Snippets"
