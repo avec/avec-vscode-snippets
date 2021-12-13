@@ -1,0 +1,32 @@
+{
+    "name": "avec-vscode-snippets",
+    "displayName": "Avec VS Code Snippets",
+    "publisher": "xbs-tekhne",
+    "description": "Snippets para auxiliar na utilização do Swagger nos projetos Node.js.",
+    "version": "0.0.1",
+    "icon": "images/icon.png",
+    "author": {
+        "name": "Avec Team"
+      },
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "bugs": {
+        "url": "https://github.com/rogerlozadaavec/avec-node-snippets/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rogerlozadaavec/avec-node-snippets.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
